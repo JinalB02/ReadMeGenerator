@@ -50,7 +50,7 @@ To set up this program locally, you will need to:
 1. Clone the GitHub repository to your local machine.
 2. Install the required libraries (OpenAI and dotenv) using the `pip install` command.
 3. Set the `code_dir` variable in the `create_input_prompt()` function to the path of the GitHub repository you want to generate a README.md file for.
-4. Run the program using the `python readme-generator.py` command.
+4. Run the program using the `python readme_generator.py` command.
 
 ## API Documentation
 
