@@ -31,9 +31,6 @@ The program will automatically read all relevant files in the repository, genera
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-This project was inspired by the [GitHub README.md Generator](https://github.com/rahulbanerjee26/github-readme-generator) by Rahul Banerjee.
 
 ## Dependencies
 
