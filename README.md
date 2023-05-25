@@ -48,7 +48,7 @@ To set up this program locally, follow these steps:
 1. Clone the repository from GitHub.
 2. Install the required dependencies using the command `pip install -r requirements.txt`.
 3. Create a `.env` file in the root directory of the project and add your OpenAI API key.
-4. Run the program using the command `python app-new.py`.
+4. Run the program using the command `python readme_generator.py`.
 
 ## API Documentation
 
